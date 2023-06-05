@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEA1</string>
+    <string name="MainActivity">MainActivity</string>
+    <string name="ChoixListActivity">ChoixListActivity</string>
+</resources>
